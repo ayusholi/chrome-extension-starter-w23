@@ -1,2 +1,15 @@
 # chrome-extension-starter-w23
-Manifest V3 Chrome extension boilerplate
+
+> Last updated: 2026-06-02
+
+## About
+
+This repository is actively maintained and updated regularly.
+
+## Getting Started
+
+Clone the repo and follow the setup instructions.
+
+## Contributing
+
+Contributions welcome! Please read CONTRIBUTING.md first.
