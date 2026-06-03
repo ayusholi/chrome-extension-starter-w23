@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- add contributing guidelines
-- Build: 2026-06-02T13:00:01.271Z
+- configure linting and code formatter
+- Updated: 2026-06-03T13:00:01.235Z
