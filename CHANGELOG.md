@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- add integration tests for API endpoints
-- Build: 2026-06-03T13:00:01.235Z
+- configure linting and code formatter
+- Updated: 2026-06-06T13:00:00.986Z
