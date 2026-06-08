@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- add input sanitization and validation
-- Build: 2026-06-06T13:00:00.986Z
+- add integration tests for API endpoints
+- Updated: 2026-06-08T13:00:00.748Z
