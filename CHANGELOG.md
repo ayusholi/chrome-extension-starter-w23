@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- add unit tests for core functions
-- Build: 2026-06-12T13:00:01.046Z
+- add input sanitization and validation
+- Updated: 2026-06-16T13:00:01.331Z
