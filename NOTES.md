@@ -1,7 +1,7 @@
 # Notes
 
-Session: 2026-06-12T13:00:01.046Z
+Last updated: 2026-06-16T13:00:01.331Z
 
-## Summary
+## Progress
 
-- add setup and installation guide
+- handle null pointer exception
