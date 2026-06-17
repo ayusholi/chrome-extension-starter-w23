@@ -1,7 +1,7 @@
 # Notes
 
-Session: 2026-06-16T13:00:01.331Z
+Last updated: 2026-06-17T13:00:01.397Z
 
-## Summary
+## Progress
 
-- update CI workflow triggers
+- add setup and installation guide
