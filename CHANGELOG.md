@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- add utility functions for data processing
-- Build: 2026-06-16T13:00:01.331Z
+- improve code examples in docs
+- Updated: 2026-06-17T13:00:01.397Z
